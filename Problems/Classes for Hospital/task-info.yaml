@@ -1,0 +1,28 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Person {
+
+    }
+
+    class Employee {
+
+    }
+
+    class Doctor {
+
+    }
+
+    class Patient {
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8309
+status: Failed
+feedback:
+  message: "Failed. Runtime error\n\nError:\nException in thread \"main\" java.lang.Exception:\
+    \ Not all classes extend Person!\n\tat Main.main(Main.java:6)\n"
+  time: Mon, 28 Sep 2020 11:33:17 UTC
+record: -1
